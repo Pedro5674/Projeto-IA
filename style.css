@@ -1,7 +1,10 @@
 header{
-    background-color: # cor-primaria;
-    color:# cor.secundaria;
+    background-color: rgb(159, 0, 252);
+    color: white;
+    text-align: center;
 }
 main{
-    background-color: # cor.secundaria;
-    color: #
+    background-color: white;
+    color: rgb(132, 0, 255);
+    text-align: center;
+}
